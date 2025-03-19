@@ -56,7 +56,7 @@ This portfolio showcases my recent projects, where I have worked with large data
 
 ---
 # Certification
-[Cisco Networking Academy](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92a57390-cf7d-4508-9ee3-009e1aa434fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[Cisco Networking Academy](https://www.credly.com/badges/92a57390-cf7d-4508-9ee3-009e1aa434fe)
 
 ## 🔗 Connect with Me   
 📧 **Email:** maritesamary@gmail.com  
