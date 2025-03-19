@@ -14,7 +14,9 @@ This portfolio showcases my recent projects, where I have worked with large data
 
 ### **SQL Projects**  
 
-#### Continents of the World Exploration  
+#### Continents of the World Exploration 
+- **Code:**
+- [Around the World](https://github.com/Maryton/Portfolio-Projects/blob/main/Around%20the%20world.sql)
 - **Description:**  
   This project explores a dataset containing all the countries in the world, categorized by their respective **continents**.  
 - **Key insights:**  
