@@ -48,11 +48,11 @@ This portfolio showcases my recent projects, where I have worked with large data
 
 ####  Data Cleaning with Pivot Tables  
 - **Project:** [Bike Sales Outliers](https://1drv.ms/x/c/58b4793624884b4c/EYpXaFi8_FJNuSF0n9s9Z8gB_5mebscVAO4iSauBZd-5oQ)
-  I used Pivot tables to extract part of the data in order for me to identify outliers. Outliers often lead to inaccuracy if not identified and rectified. 
+- I used Pivot tables to extract part of the data in order for me to identify outliers. Outliers often lead to inaccuracy if not identified and rectified. 
 
 ####  Data Visualization  
 - **Project:** [Bike Sales Visualization](https://1drv.ms/x/c/58b4793624884b4c/ESTMaYQzA4BBmn7akzHg5SgB5ddeeIP2UI9oNaVIJnmtzQ)
-  Here, I used different data visualization tools on Excel to analyze data and explored different chart formats to make the tables more appealing and easy to interpret.
+- Here, I used different data visualization tools on Excel to analyze data and explored different chart formats to make the tables more appealing and easy to interpret.
 
 ---
 
