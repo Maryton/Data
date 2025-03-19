@@ -55,6 +55,8 @@ This portfolio showcases my recent projects, where I have worked with large data
 - Here, I used different data visualization tools on Excel to analyze data and explored different chart formats to make the tables more appealing and easy to interpret.
 
 ---
+# Certification
+[Cisco Networking Academy](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92a57390-cf7d-4508-9ee3-009e1aa434fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 
 ## 🔗 Connect with Me   
 📧 **Email:** maritesamary@gmail.com  
