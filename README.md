@@ -23,7 +23,7 @@ This portfolio showcases my recent projects, where I have worked with large data
 
 #### Successful Movies Data Analysis 
 - **Code:**
-  [Successful Movie Analysis.sql](https://github.com/Maryton/Data-Analysis-Portfolio/blob/main/Successful%20Movies%20Analysis.sql)
+  [Successful Movie Data Analysis.sql](https://github.com/Maryton/Portfolio-Projects/blob/main/Successful%20Movies%20Data%20Analysis.sql))
 - **Description:**  
   This project analyzes 50 years of movie data, including titles, ratings, genres, budgets, and earnings.  
 - **Key insights:**  
